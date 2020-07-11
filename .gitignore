@@ -1,0 +1,19 @@
+# golang vendor files
+vendor/
+
+.local/
+
+# runtime logs
+log/
+
+# vscode config
+.vscode/
+
+# pyc
+*.pyc
+
+# Goland config
+*.idea/
+*.swp
+*.iml
+.DS_STORE
